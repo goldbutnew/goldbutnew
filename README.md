@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### contact
+goldbutnew@gmail.com
+
+### Tech Stack 
+`Python` `Javascript` `R` `SQL` <br>
+`Django` `Vue` `Node.js`
+
 <!--
 **goldbutnew/goldbutnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
